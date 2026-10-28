@@ -16,8 +16,6 @@ The full story takes about 25-40 minutes and teaches 22 learning points. Progres
 
 A recorded run on Meta Quest 3 (gameplay capture, 26-Oct-2026):
 
-<video src="https://github.com/rb75-code/northwind-breach-vr/raw/main/Gameplay%20Video/preview.mp4" controls width="100%"></video>
-
 Full-quality recording: [Gameplay Video/com.k068k075k081.arvrproject-20261026-171641-0.mp4](Gameplay%20Video/com.k068k075k081.arvrproject-20261026-171641-0.mp4) (stored with Git LFS).
 
 The recording of the 10-participant usability test is in the [User Testing Video](User%20Testing%20Video/) folder.

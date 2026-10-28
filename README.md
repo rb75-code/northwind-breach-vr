@@ -12,6 +12,16 @@ The full story takes about 25-40 minutes and teaches 22 learning points. Progres
 | 2 | **Fred's Office** | Floor 3 | Escape room against the clock: evidence handling, shredding, USB bait, password guessing and reset, 2FA, phishing, social engineering, encryption, and the door code |
 | 3 | **The Server Room** | Basement data centre | Find and unplug the rogue implant, bag it, quarantine its switch port, restore a clean backup, and file the incident report |
 
+## Gameplay video
+
+A recorded run on Meta Quest 3 (gameplay capture, 26-Oct-2026):
+
+<video src="Gameplay%20Video/com.k068k075k081.arvrproject-20261026-171641-0.mp4" controls width="100%"></video>
+
+If the player above does not load, open the file directly: [Gameplay Video/com.k068k075k081.arvrproject-20261026-171641-0.mp4](Gameplay%20Video/com.k068k075k081.arvrproject-20261026-171641-0.mp4).
+
+The recording of the 10-participant usability test is in the [User Testing Video](User%20Testing%20Video/) folder.
+
 ## Features
 
 - Three guided incident-response scenes plus a main menu, all playable with controllers, hands, or the Meta XR Simulator.
